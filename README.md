@@ -63,3 +63,4 @@ npm install
 
 # Avances 
 ## Nota 10
+## Segunda nota 0 ( no hay avances)
